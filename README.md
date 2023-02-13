@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Raphael Cohen!
-- 🎓 Computer Science Student at BGU.
-- 🌱 Currently working as a software developer.
+- 🎓 Recent graduate with a Bachelor’s degree in Computer Science from BGU.
+- 🌱 Software developer at Check Point Software Technologies.
