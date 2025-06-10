@@ -1,3 +1,3 @@
 ### Hi there 👋, I'm Raphael Cohen!
 - 🎓 Recent graduate with a Bachelor’s degree in Computer Science from BGU.
-- 🌱 Software developer at Yotpo.
+- 🌱 ML Engineer at Fiverr.
